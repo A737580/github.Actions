@@ -1,0 +1,15 @@
+/usr/local/LTable/projects/githubActions/bin/Debug/net9.0/githubActions
+/usr/local/LTable/projects/githubActions/bin/Debug/net9.0/githubActions.deps.json
+/usr/local/LTable/projects/githubActions/bin/Debug/net9.0/githubActions.runtimeconfig.json
+/usr/local/LTable/projects/githubActions/bin/Debug/net9.0/githubActions.dll
+/usr/local/LTable/projects/githubActions/bin/Debug/net9.0/githubActions.pdb
+/usr/local/LTable/projects/githubActions/obj/Debug/net9.0/githubActions.GeneratedMSBuildEditorConfig.editorconfig
+/usr/local/LTable/projects/githubActions/obj/Debug/net9.0/githubActions.AssemblyInfoInputs.cache
+/usr/local/LTable/projects/githubActions/obj/Debug/net9.0/githubActions.AssemblyInfo.cs
+/usr/local/LTable/projects/githubActions/obj/Debug/net9.0/githubActions.csproj.CoreCompileInputs.cache
+/usr/local/LTable/projects/githubActions/obj/Debug/net9.0/githubActions.sourcelink.json
+/usr/local/LTable/projects/githubActions/obj/Debug/net9.0/githubActions.dll
+/usr/local/LTable/projects/githubActions/obj/Debug/net9.0/refint/githubActions.dll
+/usr/local/LTable/projects/githubActions/obj/Debug/net9.0/githubActions.pdb
+/usr/local/LTable/projects/githubActions/obj/Debug/net9.0/githubActions.genruntimeconfig.cache
+/usr/local/LTable/projects/githubActions/obj/Debug/net9.0/ref/githubActions.dll
